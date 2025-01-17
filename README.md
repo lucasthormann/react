@@ -1,3 +1,3 @@
-#react
+# react
 
-*repo to track my ***react*** progress
+* repo to track my ***react*** progress
